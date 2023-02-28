@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="OcuityAIPortal.FeaturesTest"/>
+      <class name="OcuityAIPortal.LocationTest"/>
+      <class name="OcuityAIPortal.FormListTest"/>
+      <class name="OcuityAIPortal.ServiceModuleTest"/>
+      <class name="OcuityAIPortal.CustomerTest"/>
+      <class name="OcuityAIPortal.GlamourImageTest"/>
+      <class name="OcuityAIPortal.ServiceAdvisorTest"/>
+      <class name="OcuityAIPortal.UsersTest"/>
+      <class name="OcuityAIPortal.ApplicationSettingsTest"/>
+      <class name="OcuityAIPortal.HomepageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
